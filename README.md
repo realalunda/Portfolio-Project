@@ -20,8 +20,8 @@ Currently a third-year Computer Science student at Kasetsart University, Srirach
 - **Communication**  
 
 ## **Projects**
--  [Financial Management System for Temple (Figma Design)](https://www.figma.com/proto/bPKYXAqnte6J9edHbBK4Jq/Temple?page-id=0%3A1&node-id=74-2&node-type=frame&viewport=558%2C414%2C0.03&t=KtE4ZfMtUHatA5Yx-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=92%3A89&show-proto-sidebar=1)
 -  [Personal Portfolio Design on Figma](https://www.figma.com/proto/gaoY98VdUWmV0GMQx63P7P/Untitled?page-id=0%3A1&node-id=1-2&p=f&viewport=-15163%2C747%2C1.93&t=xapvwVymTI1fC5sD-1&scaling=contain&content-scaling=fixed)
+-  [Financial Management System for Temple (Figma Design)](https://www.figma.com/proto/bPKYXAqnte6J9edHbBK4Jq/Temple?page-id=0%3A1&node-id=74-2&node-type=frame&viewport=558%2C414%2C0.03&t=KtE4ZfMtUHatA5Yx-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=92%3A89&show-proto-sidebar=1)
 -  [AI-Based Animal Detection (Dog, Cat, and Rabbit)](https://drive.google.com/drive/u/0/folders/1yvVuYAE-nVL6kuneGC8-JfcpyfwDGGaW)
 -  [Software Testing (Java codeing, API, WebUI, Selenium)](https://drive.google.com/drive/u/0/folders/1S9rSGZCP8I6Yg61UnRA8lRGqm-ZZyKNE)
 -  [System Analysis Financial Management System within a Temple](https://drive.google.com/drive/u/0/folders/1HioC0CDnrlASng4cGd4Y62q50PFwLkCK)
