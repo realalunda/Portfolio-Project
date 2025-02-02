@@ -1,6 +1,3 @@
-# [Portfolio]
-![Profile](image/S__16580611.jpg)
-
 ## **Personal Profile** 
 - **Name:** Thanabordee Boonsook
 - **Nickname:** Peak
